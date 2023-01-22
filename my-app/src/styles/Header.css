@@ -1,0 +1,14 @@
+nav{
+    background-color: aquamarine;
+    box-shadow: 0 0 10px rgb(252, 0, 0);
+    height: 600px;
+    width: 600px;
+    padding: 4rem;
+    padding: 5px;
+}
+
+nav > a {
+    font: 600 2 cursive;
+    color: brown;
+    text-decoration: underline;
+}

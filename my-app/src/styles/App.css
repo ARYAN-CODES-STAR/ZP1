@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(204, 119, 9);
+}
+
+nav{
+    background-color: aquamarine;
+    box-shadow: 0 0 10px black;
+    height: 600px;
+    width: 600px;
+    padding: 4rem;
+}
